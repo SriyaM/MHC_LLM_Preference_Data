@@ -1,0 +1,633 @@
+age,gender,ethnicity,native_language,stage_of_change,general_message_1,general_message_2,general_message_3,general_message_4,general_message_5,pre_contemplation_message_1,pre_contemplation_ message_2,pre_contemplation_message_3,contemplation_message_1,contemplation_message_2,contemplation_message_3,preparation_message_1,preparation_message_2,preparation_message_3,action_message_1,action_message_2,action_message_3,maintenance_message_1,maintenance_message_2,maintenance_message_3
+48,Male,White,English ,Maintenance,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,,,
+63,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+67,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,
+58,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+72,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+59,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,
+76,Male,White,English ,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,
+40,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+66,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+68,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+62,Female,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer LLM,,,
+34,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,
+26,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+33,Male,White,Polish,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+41,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+29,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+77,Male,White,English,Maintenance,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+54,Male,"Hispanic/Latino/Spanish Origin, White, Multiethnic",English,Action,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,
+64,Male,"Hispanic/Latino/Spanish Origin, White",Spanish,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+43,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+52,Male,Middle Eastern or North African,Armenian,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+45,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+66,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+80,Male,White,English,Maintenance,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,
+65,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+56,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+76,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+54,Male,"Hispanic/Latino/Spanish Origin, White, Multiethnic",English,Maintenance,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+72,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+50,Female,Asian,English,Preparation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,
+77,Female,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+39,Female,White,English,Preparation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+78,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+66,Male,White,English ,Action,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+43,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+39,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+53,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+34,Male,Asian,Chinese,Contemplation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+54,Male,White,English,Preparation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+85,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+30,Female,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+74,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+47,Male,White,English ,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+73,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+65,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+39,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+47,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+61,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+61,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+50,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,1.0,Prefer Expert,,,,,,,,,,,,
+61,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+64,Female,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,
+68,Male,Prefer not to disclose,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+63,Female,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+82,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,
+50,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+65,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+82,Male,Multiethnic,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+50,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+44,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,
+62,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,
+67,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert
+59,Female,Multiethnic,English,Precontemplation,Prefer Expert,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+49,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+60,Male,White,English ,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+43,Female,"Black or African American, Multiethnic",Portuguese,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+49,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+54,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+76,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,
+43,Female,White,Macedonian,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+66,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+56,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,1.0,Prefer Expert,,,,,,,,,,,,
+46,Female,White,English,Precontemplation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,
+54,Male,White,English,Precontemplation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,
+39,Male,"American Indian or Alaskan Native, Hispanic/Latino/Spanish Origin, White",English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,
+70,Male,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+52,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+66,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+73,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+54,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,1.0,Prefer Expert,,,,,,,,,,,,
+42,Male,White,English,Maintenance,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+84,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+43,Male,White,Romanian,Precontemplation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,
+58,Male,Other,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+44,Male,Hispanic/Latino/Spanish Origin,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,
+70,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+65,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,
+57,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+75,Male,White,English,Precontemplation,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+40,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,
+57,Male,Hispanic/Latino/Spanish Origin,Spanish,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+63,Female,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer LLM
+63,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+65,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+70,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+80,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+68,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+76,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+60,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+47,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer LLM
+43,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+58,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+73,Male,White,Italian,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,7.0,Prefer LLM,,,,,,,,,,,,
+64,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+40,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+36,Female,Middle Eastern or North African,Arabic,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+83,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert
+75,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,,,
+39,Male,White,Croatian,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+52,Male,Hispanic/Latino/Spanish Origin,English,Precontemplation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+57,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+77,Male,White,English,Contemplation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+36,Male,Asian,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+19,Male,White,English,Action,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,
+34,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+41,Male,Asian,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+74,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+57,Male,White,English,Action,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+36,Male,"Hispanic/Latino/Spanish Origin, Native Hawaiian or Pacific Islander",English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,
+63,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+75,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+37,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+75,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+50,Female,Asian,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+43,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+28,Female,White,English,Maintenance,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+57,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,
+65,Male,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+71,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+72,Female,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+42,Female,Black or African American,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+55,Male,Asian,Tamil,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+43,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+83,Male,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+72,Male,Hispanic/Latino/Spanish Origin,Spanish,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+52,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+71,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+71,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+80,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+63,Female,White,English,Action,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,
+33,Male,White,English,Action,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,Prefer Expert,Prefer Expert,,,
+56,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+41,Female,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+49,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+19,Male,White,English,Maintenance,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+36,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+67,Male,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+39,Female,"Hispanic/Latino/Spanish Origin, White",English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer LLM,,,
+84,Male,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+73,Male,White,English,Maintenance,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+47,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+71,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,
+61,Male,White,English,Maintenance,Prefer Expert,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+33,Male,White,English,Precontemplation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+40,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+71,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer Expert,,,,,,,,,,,,
+56,Male,Asian,English,Maintenance,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+32,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+41,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+60,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+56,Male,White,English ,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+49,Male,Middle Eastern or North African,Arabic,Action,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+59,Male,Asian,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,,,
+43,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+63,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+61,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+59,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert
+63,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+69,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+78,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+59,Male,White,German,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,
+69,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+73,Male,White,English,Maintenance,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+78,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert
+49,Male,Middle Eastern or North African,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+59,Male,Black or African American,English ,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,
+76,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+70,Female,Hispanic/Latino/Spanish Origin,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+54,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+84,Male,White,English ,Preparation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+74,Male,White,English,Maintenance,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+40,Male,"Asian, White, Multiethnic",English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,
+32,Female,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+59,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,
+32,Male,White,English,Contemplation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+32,Male,White,English,Precontemplation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,
+68,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+51,Male,Black or African American,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+43,Male,Asian,Hindi,Preparation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,
+66,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+84,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+51,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+87,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+75,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+67,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+64,Male,White,English,Maintenance,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+43,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer LLM
+83,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+85,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+53,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,
+42,Male,White,Greek,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+51,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+67,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+68,Male,"American Indian or Alaskan Native, White",English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+69,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+47,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+74,Female,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+55,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer LLM
+58,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+80,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+78,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+55,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+76,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert
+68,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,
+55,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,
+42,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+57,Male,Asian,English,Precontemplation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+35,Female,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+72,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+71,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+43,Male,White,English,Maintenance,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+54,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+58,Male,"Asian, White",English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+49,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+82,Male,White,English,Preparation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+70,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+67,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+56,Male,"Asian, White",English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer Expert,,,,,,,,,,,,
+73,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,
+80,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+73,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+51,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+73,Male,White,English,Maintenance,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+72,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+77,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+64,Male,Other,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+67,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,7.0,Prefer Expert,,,,,,,,,,,,
+53,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+61,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+86,Female,Other,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+87,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,
+56,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+71,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+67,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+84,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+47,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+71,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+33,Female,Asian,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,
+68,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+88,Male,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+37,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+84,Male,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,1.0,Prefer LLM,,,,,,,,,,,,
+67,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+37,Male,Asian,Chinese,Preparation,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+33,Male,Asian,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+54,Male,Asian,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+49,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+74,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+58,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+34,Male,White,English,Action,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer LLM,,,
+86,Male,White,English,Action,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+74,Male,White,English,Maintenance,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,
+63,Male,Asian,Chinese,Maintenance,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+73,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+62,Male,White,English,Preparation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+63,Female,White,English,Action,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,
+72,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+68,Male,Prefer not to disclose,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+62,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+50,Female,Asian,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+60,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+36,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,
+74,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+75,Male,White,Spanish,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+61,Male,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+36,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+77,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+73,Male,Black or African American,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+37,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+80,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+42,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,
+58,Male,"American Indian or Alaskan Native, White",English ,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+76,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+81,Male,White,English,Action,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+71,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+80,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+67,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+77,Male,White,English ,Maintenance,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+73,Male,"Hispanic/Latino/Spanish Origin, White, Other",Spanish,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,,,
+63,Male,White,English,Maintenance,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+64,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+83,Female,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+32,Male,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+66,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+60,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+60,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,
+47,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+67,Female,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+47,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+49,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+50,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+71,Male,White,English,Action,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer LLM,,,
+66,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+67,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+51,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+42,Male,Asian,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+31,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,
+58,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,
+83,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+42,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+53,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+39,Female,"Hispanic/Latino/Spanish Origin, White",English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+74,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+69,Male,Multiethnic,English,Maintenance,Prefer Expert,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+64,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,
+74,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,
+75,Male,White,English ,Precontemplation,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+20,Female,White,Greek,Action,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+71,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+48,Male,White,English ,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+53,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+54,Male,White,English ,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+65,Male,White,English,Preparation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,
+54,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+72,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+57,Female,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,
+57,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,
+44,Female,Asian,Chinese,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+51,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+62,Female,White,English,Action,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer LLM,,,
+61,Male,White,English ,Preparation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,
+63,Male,Hispanic/Latino/Spanish Origin,English,Maintenance,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+47,Male,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,1.0,Prefer LLM,,,,,,,,,,,,
+36,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+71,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+45,Male,White,Italiano,Precontemplation,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+51,Male,Hispanic/Latino/Spanish Origin,Spanish,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+65,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert
+50,Male,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+43,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,
+82,Male,White,English ,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+76,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+54,,Asian,Hindi,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+42,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+76,Male,White,Polish,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+63,Male,White,English ,Contemplation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+33,Female,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+52,Male,Hispanic/Latino/Spanish Origin,Spanish,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,
+73,Male,White,English,Preparation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+67,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+62,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+83,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+29,Male,Asian,English,Preparation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+58,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+79,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+35,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+42,Female,Black or African American,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+57,Male,White,English,Maintenance,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+54,Male,White,English,Action,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+61,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer Expert,,,,,,,,,,,,
+63,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+56,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+40,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer LLM,,,
+38,Female,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,
+64,Female,"Hispanic/Latino/Spanish Origin, White, Multiethnic",English ,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+65,Female,White,English,Maintenance,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+83,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+40,Male,White,Afrikaanns,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+47,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+56,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+73,Male,White,English,Preparation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert
+68,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+74,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+48,Male,American Indian or Alaskan Native,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+38,Male,White,Russian,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+50,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+72,Male,White,English,Preparation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,
+71,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,
+74,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+82,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+35,Male,Middle Eastern or North African,Arabic,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+59,Male,White,English ,Maintenance,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+62,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+75,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,
+45,Male,White,English,Action,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+67,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+77,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+59,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+63,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+56,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+34,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+42,Male,White,English,Precontemplation,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+53,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+59,Male,Hispanic/Latino/Spanish Origin,English,Precontemplation,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+35,Male,White,Ukrainian,Precontemplation,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,
+46,Male,Multiethnic,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+28,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,
+29,Male,Hispanic/Latino/Spanish Origin,Spanish,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer LLM,,,
+33,Female,White,English,Precontemplation,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,
+61,Female,Asian,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,1.0,Prefer LLM,,,,,,,,,,,,
+65,Male,Black or African American,English,Maintenance,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,
+63,Male,White,English ,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+77,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+78,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+62,Male,Asian,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+70,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+52,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+77,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+66,Male,White,Afrikaans,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+68,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert
+68,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+68,Male,White,English ,Maintenance,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert
+66,Female,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+66,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+66,Female,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer LLM
+42,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+49,Male,White,Romanian,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer Expert,,,,,,,,,,,,
+58,Male,Asian,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+42,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+29,Male,Hispanic/Latino/Spanish Origin,Spanish,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer LLM
+67,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+48,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+38,Male,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+66,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+55,Male,White,English,Preparation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+53,Male,Asian,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+68,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,
+63,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+64,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+73,Male,White,English,Maintenance,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+69,Male,Asian,English,Preparation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+82,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+63,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+64,Female,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,
+68,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,,,
+75,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+29,Female,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+50,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+68,Female,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,
+49,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+66,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+83,Male,White,English ,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+52,Male,White,English,Maintenance,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+41,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+52,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,
+29,Female,"Middle Eastern or North African, White",English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,
+59,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+65,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+44,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,
+59,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+42,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+55,Male,"American Indian or Alaskan Native, White",English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+85,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+68,Male,White,French,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,
+80,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert
+59,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+54,Male,White,English ,Action,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+42,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,
+65,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+78,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+72,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+78,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+56,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+70,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+44,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+72,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer LLM
+43,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+93,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+77,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+38,Male,White,Russian,Action,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,
+70,Male,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer LLM,,,
+39,Male,White,English,Precontemplation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,,,,,,,,,,
+54,Male,Asian,Tagalog,Action,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+76,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+61,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+51,Male,Asian,Chinese,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+79,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+50,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,
+49,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+33,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert
+79,Male,White,English,Contemplation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+58,Male,Middle Eastern or North African,Arabic,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,
+75,Male,White,English,Maintenance,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+43,Male,White,Italian,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,1.0,Prefer Expert,,,,,,,,,,,,
+81,Male,White,English ,Maintenance,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+67,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+61,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+59,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+68,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,
+38,Male,"American Indian or Alaskan Native, Hispanic/Latino/Spanish Origin, White, Multiethnic",English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+43,Female,Multiethnic,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+53,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+78,Male,White,English ,Contemplation,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+35,Male,"Hispanic/Latino/Spanish Origin, White",English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+46,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+68,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+66,Male,White,English,Precontemplation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert
+73,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,
+88,Male,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,
+48,Male,"Hispanic/Latino/Spanish Origin, White",English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+73,Male,White,English,Maintenance,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+61,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+73,Female,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+33,Female,Asian,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+45,Male,Asian,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+64,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+35,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+50,Male,White,English,Preparation,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+62,Female,American Indian or Alaskan Native,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,
+64,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer Expert,,,,,,,,,,,,
+53,Male,Multiethnic,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+59,Female,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,
+48,Male,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+42,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+76,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,
+35,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+76,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,
+30,Female,"Asian, Native Hawaiian or Pacific Islander",English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+33,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+70,Male,White,french,Contemplation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+72,Female,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+45,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+38,Male,Asian,Bengali,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+52,Male,White,English,Contemplation,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+62,Male,Hispanic/Latino/Spanish Origin,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+62,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+61,Female,White,English ,Maintenance,Prefer Expert,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,
+62,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+45,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+48,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+39,Male,Hispanic/Latino/Spanish Origin,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,
+70,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+68,Non-Binary/Third Gender,White,English ,Contemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+74,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+45,Male,Asian,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+33,Male,Middle Eastern or North African,Arabic,Precontemplation,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+47,Male,Asian,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,
+47,Male,White,English,Precontemplation,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,Prefer Expert,7.0,,,,,,,,,,,,,
+77,Male,Hispanic/Latino/Spanish Origin,English,Precontemplation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+29,Female,"Middle Eastern or North African, White",English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+40,Male,White,Afrikaanns,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+54,Male,Hispanic/Latino/Spanish Origin,Spanish,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+44,Male,"Hispanic/Latino/Spanish Origin, White",English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+88,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+53,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,7.0,Prefer Expert,,,,,,,,,,,,
+47,Female,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+40,Male,White,English,Contemplation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+77,Female,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+57,Male,"Middle Eastern or North African, White, Other",English,Maintenance,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+52,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+81,Female,White,English,Preparation,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+57,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+26,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+33,Male,Asian,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+20,Female,White,Greek,Maintenance,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+53,Male,Black or African American,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,1.0,Prefer Expert,,,,,,,,,,,,
+66,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,
+66,Female,White,English,Preparation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+80,Female,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+32,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+57,Male,White,English,Preparation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+62,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+77,Female,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+69,Male,White,English ,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+79,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,
+68,Male,White,English,Preparation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert
+80,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+34,Female,Black or African American,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+53,Male,Asian,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+60,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+78,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+71,Female,White,English,Precontemplation,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+52,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,
+62,Non-Binary/Third Gender,Multiethnic,English,Maintenance,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+77,Female,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+72,Male,Other,English ,Precontemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+72,Female,White,English,Preparation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,
+69,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,
+56,Male,White,English,Contemplation,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+43,Male,White,English,Contemplation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,7.0,Prefer LLM,,,,,,,,,,,,
+83,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,
+65,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert
+39,Non-Binary/Third Gender,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+85,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+57,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+34,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer LLM
+43,Male,Black or African American,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+74,Prefer not to say,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+54,Female,Prefer not to disclose,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer Expert,,,,,,,,,,,,
+71,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+46,Male,White,English ,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,
+45,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+41,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+54,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+62,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+53,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+74,Male,Asian,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+41,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,
+76,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+45,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+47,Female,White,English,Contemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+53,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+29,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+70,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+32,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+52,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+43,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+52,Male,Hispanic/Latino/Spanish Origin,Spanish,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+46,Male,White,English,Maintenance,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+54,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM
+61,Male,White,German,Maintenance,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,Prefer Expert,Prefer LLM,1.0,Prefer Expert,,,,,,,,,,,,
+41,Female,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+49,Male,Asian,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert
+75,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+71,Male,White,English,Contemplation,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,,,,,Prefer Expert,Prefer Expert,Prefer Expert
+55,Female,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,
+74,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+62,Male,White,English ,Preparation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+84,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,
+58,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+68,Male,White,English,Action,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,
+58,Male,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert
+48,Female,Asian,Telugu,Precontemplation,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer LLM,Prefer Expert,,,,,,,,,
+73,Male,"American Indian or Alaskan Native, Black or African American",English,Maintenance,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,,,,,,,Prefer LLM,Prefer Expert,Prefer Expert
+84,Male,White,English,Maintenance,Prefer LLM,Prefer Expert,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,7.0,Prefer Expert,,,,,,,,,,,,
+49,Male,White,English,Maintenance,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,
+72,Male,White,English,Preparation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,
+62,Male,White,English,Precontemplation,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer Expert,,,,Prefer Expert,Prefer Expert,Prefer Expert,,,,,,,,,
+78,Male,White,English,Maintenance,Prefer LLM,Prefer Expert,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,Prefer Expert,Prefer LLM,Prefer Expert,,,,,,
+74,Female,White,English,Maintenance,Prefer LLM,Prefer LLM,Prefer Expert,Prefer Expert,Prefer LLM,Prefer LLM,7.0,Prefer LLM,,,,,,,,,,,,
+58,Male,White,English ,Maintenance,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,Prefer LLM,Prefer Expert,Prefer Expert,,,,,,,,,
+60,Female,White,English,Action,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,Prefer LLM,,,,,,,,,,Prefer LLM,Prefer LLM,Prefer LLM,,,

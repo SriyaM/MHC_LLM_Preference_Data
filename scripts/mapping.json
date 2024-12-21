@@ -1,0 +1,71 @@
+{
+    "Age": {
+      "description": "Age in years"
+    },
+    "Gender": {
+      "description": "Gender of respondent",
+      "mapping": {
+        "1": "Male",
+        "2": "Female",
+        "3": "Non-Binary/Third Gender",
+        "4": "Prefer not to say"
+      }
+    },
+    "Ethnicity": {
+      "description": "Ethnicity of respondent",
+      "mapping": {
+        "1": "American Indian or Alaskan Native",
+        "2": "Asian",
+        "3": "Black or African American",
+        "4": "Hispanic/Latino/Spanish Origin",
+        "5": "Middle Eastern or North African",
+        "6": "Native Hawaiian or Pacific Islander",
+        "7": "White",
+        "8": "Multiethnic",
+        "9": "Prefer not to disclose",
+        "10": "Other"
+      }
+    },
+    "Native_language": {
+      "description": "Native language of the respondent"
+    },
+    "Stage_of_Change": {
+      "description": "Stage of behavior change",
+      "mapping": {
+        "1": "Maintenance",
+        "2": "Action",
+        "5": "Preparation",
+        "7": "Precontemplation",
+        "9": "Contemplation"
+      }
+    },
+    "Message_Preferences": {
+      "description": "Preferences for all general and stage-based messages",
+      "applicable_columns": [
+        "general_message_1",
+        "general_message_2",
+        "general_message_3",
+        "general_message_4",
+        "general_message_5",
+        "pre_contemplation_message_1",
+        "pre_contemplation_message_2",
+        "pre_contemplation_message_3",
+        "contemplation_message_1",
+        "contemplation_message_2",
+        "contemplation_message_3",
+        "preparation_message_1",
+        "preparation_message_2",
+        "preparation_message_3",
+        "action_message_1",
+        "action_message_2",
+        "action_message_3",
+        "maintenance_message_1",
+        "maintenance_message_2",
+        "maintenance_message_3"
+      ],
+      "mapping": {
+        "1": "Prefer Expert",
+        "7": "Prefer LLM"
+      }
+    }
+  }  
